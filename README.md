@@ -24,3 +24,5 @@ I am an undergraduate at the Indian Institute of Technology Mandi, India. I am m
 - 📫 How to reach me **gajrajgchouhan@gmail.com**
 
 <h5>Thanks to - <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">Readme Generator</a> 🚀 </h5>
+
+![](https://hit.yhype.me/github/profile?user_id=54475046)

@@ -18,7 +18,7 @@ I am an undergraduate at the Indian Institute of Technology Mandi, India. I am m
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact:-->
-- 🌱 I’m currently learning: SocketIO, Databases, ML
+- 🌱 I’m currently learning: Deep Learning, Data Science, DSA
 - 👯 I’m looking to collaborate on: ML Competitions, Hackathons
 - 😄 Pronouns: He/Him
 - 📫 How to reach me **gajrajgchouhan@gmail.com**

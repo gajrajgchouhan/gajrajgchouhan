@@ -24,6 +24,7 @@ I am an undergraduate at the Indian Institute of Technology Mandi, India. I am m
 - 📫 How to reach me **gajrajgchouhan@gmail.com**
 
 <h3 align="left">My Repositories (in no particular order)</h3>
+
 - Line Follower Code (won a compeitition!) : https://github.com/gajrajgchouhan/LineFollower
 - Sudoku Solver GUI : https://github.com/gajrajgchouhan/Sudoku-Solver
 - Play the game by Internet Pionner Sam Kass. : https://github.com/gajrajgchouhan/Rock.Paper.Scissors.Lizard.Spock
@@ -44,7 +45,17 @@ I am an undergraduate at the Indian Institute of Technology Mandi, India. I am m
 - Image Search Engine : https://github.com/gajrajgchouhan/image-search-engine
 - Star Map Visualiser (Inter IIT) : https://github.com/gajrajgchouhan/9th-Inter-iit
 - Extracting and Analyzing Text from Paper : https://github.com/aditya-sarkar441/DIP_final_project
-- 
+- A App to make queues for online meets : https://github.com/gajrajgchouhan/Receptionist
+- Face detection using Eigenfaces : https://github.com/gajrajgchouhan/Eigenfaces
+- AstraX's website : https://github.com/gajrajgchouhan/astrax.in
+- Ecommerce Website (React + Firebase + Razorpay) : https://github.com/gajrajgchouhan/ECommerce
+- Switch Git Configs easily : https://github.com/gajrajgchouhan/Switch_GitConfigs
+- SEC Filings Analyzer (Inter IIT) : https://github.com/gajrajgchouhan/HP_DA_T3
+- My website : https://github.com/gajrajgchouhan/gajrajgchouhan.github.io
+- Deplyed docs (OS Contribution) : https://github.com/gajrajgchouhan/ziti-sdk-swift
+- Added parsers (OS Contribution) : https://github.com/gajrajgchouhan/chat-miner
+- Show youtube playlists (OS Contribution) : https://github.com/gajrajgchouhan/youtube-playlist-duration
+- Task Manager using FASTAPI : https://github.com/gajrajgchouhan/FastAPI
 
 <h5>Thanks to - <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">Readme Generator</a> 🚀 </h5>
 

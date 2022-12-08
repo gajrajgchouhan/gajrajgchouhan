@@ -23,7 +23,7 @@ I am an undergraduate at the Indian Institute of Technology Mandi, India. I am m
 - 😄 Pronouns: He/Him
 - 📫 How to reach me **gajrajgchouhan@gmail.com**
 
-<h3 align="left">My Repositories (in no particular order)</h3>
+<h3 align="left">My Repositories (from oldest to newest)</h3>
 
 - Line Follower Code (won a compeitition!) : https://github.com/gajrajgchouhan/LineFollower
 - Sudoku Solver GUI : https://github.com/gajrajgchouhan/Sudoku-Solver

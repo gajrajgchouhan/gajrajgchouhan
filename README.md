@@ -23,6 +23,29 @@ I am an undergraduate at the Indian Institute of Technology Mandi, India. I am m
 - 😄 Pronouns: He/Him
 - 📫 How to reach me **gajrajgchouhan@gmail.com**
 
+<h3 align="left">My Repositories (in no particular order)</h3>
+- Line Follower Code (won a compeitition!) : https://github.com/gajrajgchouhan/LineFollower
+- Sudoku Solver GUI : https://github.com/gajrajgchouhan/Sudoku-Solver
+- Play the game by Internet Pionner Sam Kass. : https://github.com/gajrajgchouhan/Rock.Paper.Scissors.Lizard.Spock
+- CTF Tools : https://github.com/gajrajgchouhan/Tools
+- Visualising COVID Data using Matplotlib : https://github.com/gajrajgchouhan/COVID-19-Visualize
+- My CTF Writeups <3 : https://github.com/gajrajgchouhan/CTF-writeups
+- Alycone (Hackathon) submission : https://github.com/gajrajgchouhan/alcyone
+- Electra (Hackathon) submission : https://github.com/gajrajgchouhan/Electra
+- Microcontrollers Code : https://github.com/gajrajgchouhan/MicroControllers
+- STAC's website : https://github.com/STAC-IITMandi/STAC-IITMandi.github.io
+- STAC's Blog : https://github.com/STAC-IITMandi/Blog
+- UNET Implementation : https://github.com/gajrajgchouhan/UNET
+- Transcation Analyzer using Hadoop : https://github.com/gajrajgchouhan/Hadoop-Assignment
+- Statistical Simulations using Python : https://github.com/gajrajgchouhan/Statistical-Simulation-Project
+- Data Science Projects : https://github.com/gajrajgchouhan/DS3-Assignments
+- Imeplementation of Psychological Projects using WebD : https://github.com/gajrajgchouhan/Final-Project-CS308-1
+- Grocery App : https://github.com/gajrajgchouhan/Grocery-App
+- Image Search Engine : https://github.com/gajrajgchouhan/image-search-engine
+- Star Map Visualiser (Inter IIT) : https://github.com/gajrajgchouhan/9th-Inter-iit
+- Extracting and Analyzing Text from Paper : https://github.com/aditya-sarkar441/DIP_final_project
+- 
+
 <h5>Thanks to - <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">Readme Generator</a> 🚀 </h5>
 
 ![](https://hit.yhype.me/github/profile?user_id=54475046)

@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am an undergraduate at the Indian Institute of Technology Mandi, India. I am majoring in Data Science & Engineering.
+I am a graduate of Indian Institute of Technology Mandi, India. I majored in Data Science & Engineering.
+I am currently working as software engineer at Gan.AI !
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajrajgchouhan&label=Profile%20views&color=0e75b6&style=flat" alt="gajrajgchouhan" /> </p>
 
 <h3 align="left">Connect with me:</h3>
